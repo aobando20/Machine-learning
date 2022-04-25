@@ -1,0 +1,1 @@
+Esta carpeta contiene los archivos py. de BancoUno y Regresion lineal.El csv de  banco uno y el csv de la data limpia.
